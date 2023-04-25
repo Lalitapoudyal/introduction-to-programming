@@ -1,1 +1,7 @@
-writing into the file
+Hello first line
+second line
+third line
+medhvai skills university
+APPENDED
+
+APPENDED
